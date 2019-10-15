@@ -5,7 +5,7 @@ node_js:
 cache: npm
 
 before_install:
-  - ls -la
+  - pwd
   - npm install
   - mkdir public
   - ls -la
