@@ -1,3 +1,3 @@
 #!/bin/bash
 
-now public --token=$tQpxjUNWYoMnOwEhjES7wt1R
+now public --token=$NOW_TOKEN
